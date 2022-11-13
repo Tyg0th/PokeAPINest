@@ -37,3 +37,6 @@ lerna-debug.log*
 
 # mongo 
 /mongo
+
+#environment variables
+.env
